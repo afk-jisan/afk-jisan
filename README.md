@@ -1,16 +1,67 @@
-## Hi there 👋
+<p align="center" style="height: 80px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=52616B&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Hi%2C+I'm+afk-jisan!;Building+useful+things+with+code.;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
-<!--
-**afk-jisan/afk-jisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Who Am I?
+
+- 🎓 Student passionate about coding and building impactful products.
+- 🛠️ Product builder & problem solver who loves to learn by doing.
+- 🤖 Open source enthusiast—ready for any code battle!
+- 🌱 Constantly exploring new technologies and frameworks.
+
+---
+
+## 🧰 Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-222?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/-Python-222?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/-React-222?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/-Next.js-222?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/>
+</p>
+
+---
+
+
+## 🪖Current Projects
+
+- **Faculty Review:** A platform to review and share feedback about faculties.
+- **Mess Manage:** A solution for efficient management of mess facilities.
+
+---
+
+## 💡 Interests
+
+- 💻 late-night coding, and side projects—my natural habitat.
+- 🧩 Always scouting for new tech trends and creative solutions.
+- 🤝 Open to collaborations, especially if it’s off the beaten path!
+- 🐱 Cat videos and memes = my debugging kit.
+
+---
+
+## 🌐 Connect With Me
+
+- 🗨️ **Facebook:** [n0ohope](https://www.facebook.com/n0ohope)
+- 📨 *Ping me for collabs, feedback, or just to swap code stories!*
+
+---
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afk-jisan&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afk-jisan&show_icons=true&hide_title=true&count_private=true&theme=react" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afk-jisan&layout=compact&theme=react" alt="Top Langs" />
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afk-jisan&label=Profile%20views&color=52616b&style=flat" alt="afk-jisan" />
+</p>

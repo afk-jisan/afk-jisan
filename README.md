@@ -8,7 +8,7 @@
 
 - 🎓 Student passionate about coding and building impactful products.
 - 🛠️ Product builder & problem solver who loves to learn by doing.
-- 🤖 Open source enthusiast—ready for any code battle!
+- 🤖 Open source enthusiast & ready for any code battle!
 - 🌱 Constantly exploring new technologies and frameworks.
 
 ---
@@ -30,18 +30,16 @@
 
 
 ## 🪖Current Projects
-
-- **Faculty Review:** A platform to review and share feedback about faculties.
-- **Mess Manage:** A solution for efficient management of mess facilities.
+- **Mess Manage:** A solution for efficient management of mess facilities such as track meals, manage expenses & deposits, and see summaries.
 
 ---
 
 ## 💡 Interests
 
-- 💻 late-night coding, and side projects—my natural habitat.
+- 💻 late-night coding, and side projects are my natural habitat.
 - 🧩 Always scouting for new tech trends and creative solutions.
 - 🤝 Open to collaborations, especially if it’s off the beaten path!
-- 🐱 Cat videos and memes = my debugging kit.
+- 🐱 Cat videos and memes are my debugging kit.
 
 ---
 
@@ -56,8 +54,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afk-jisan&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=afk-jisan&show_icons=true&hide_title=true&count_private=true&theme=react" alt="GitHub Stats" />
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afk-jisan&layout=compact&theme=react" alt="Top Langs" />
 
 </p>

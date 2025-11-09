@@ -4,16 +4,16 @@
 
 
 
-## 🚀 Who Am I?
+##  Who Am I?
 
-- 🎓 Student passionate about coding and building impactful products.
-- 🛠️ Product builder & problem solver who loves to learn by doing.
-- 🤖 Open source enthusiast & ready for any code battle!
-- 🌱 Constantly exploring new technologies and frameworks.
+- Student passionate about coding and building impactful products.
+-  Product builder & problem solver who loves to learn by doing.
+- Open source enthusiast & ready for any code battle!
+-  Constantly exploring new technologies and frameworks.
 
 ---
 
-## 🧰 Tech Arsenal
+##  Tech Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-222?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
@@ -29,36 +29,36 @@
 ---
 
 
-## 🪖Current Projects
-- **Mess Manage:** A solution for efficient management of mess facilities such as track meals, manage expenses & deposits, and see summaries.
+## Current Projects
+- **SnapNote** : An ai integrated MarkDown Editor with instant preview and various powerful feature at no cost.
+- **StockSync** (can't disclose any info yet, stay connected to know in the future)
+- **Arthadarpan** (can't disclose any info yet, stay connected to know in the future)
+
+
 
 ---
 
-## 💡 Interests
+##  Interests
 
-- 💻 late-night coding, and side projects are my natural habitat.
-- 🧩 Always scouting for new tech trends and creative solutions.
-- 🤝 Open to collaborations, especially if it’s off the beaten path!
-- 🐱 Cat videos and memes are my debugging kit.
+- late night coding and side projects are my natural habitat.
+- Always scouting for new tech trends and creative solutions.
+- Open to collaborations, especially if it’s off the beaten path!
+- Cat videos and memes are my debugging kit.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- 🗨️ **Facebook:** [n0ohope](https://www.facebook.com/n0ohope)
+- **Facebook:** [n0ohope](https://www.facebook.com/n0ohope)
+- **Email:** baktier.galib.jisan@gmail.com
 -  ## My Portfolio
-  [![View Site](https://img.shields.io/badge/View%20Site-Click%20Here-blue?style=for-the-badge)](https://afk-jisan.pages.dev/)
-- 📨 *Ping me for collabs, feedback, or just to swap code stories!*
+[![View Site](https://img.shields.io/badge/View%20Site-Click%20Here-blue?style=for-the-badge)](https://afk-jisan.pages.dev/)
+- *Ping me for collabs, feedback, or just to swap stories!*
 
 ---
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afk-jisan&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afk-jisan&layout=compact&theme=react" alt="Top Langs" />
-
 </p>
 
 <p align="center">

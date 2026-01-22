@@ -29,10 +29,18 @@
 ---
 
 
-## Current Projects
-- **SnapNote** : An ai integrated MarkDown Editor with instant preview and various powerful feature at no cost.
-- **StockSync** (can't disclose any info yet, stay connected to know in the future)
-- **Arthadarpan** (can't disclose any info yet, stay connected to know in the future)
+## Projects
+
+| Project | Category | Description |
+| :--- | :--- | :--- |
+| **SnapNote** | **Productivity** | An AI-integrated Markdown editor featuring instant live previews and advanced productivity tools. |
+| **Arthadarpan** | **In Development** | An upcoming proprietary platform. Full specifications currently confidential. |
+| **Richdale** | **Real Estate** | A responsive real estate listing website developed for an international client. |
+| **GiveGigs** | **SaaS Tool** | Added comprehensive time-tracking system and browser extension in their plat. |
+| **Infinity Tech Zone** | **E-Commerce** | An electronics retail platform optimized for product showcasing and sales. |
+| **Mess Management** | **Utility** | A full-stack application for managing shared living expenses and dining systems. |
+| **Invoice Maker** | **Web App** | A streamlined application for generating customizable professional invoices. |
+| **Ninja Mart** | **E-Commerce** | A functional e-commerce storefront with cart and checkout logic. |
 
 
 
